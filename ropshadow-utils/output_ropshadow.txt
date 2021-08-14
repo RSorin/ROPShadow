@@ -1,0 +1,1066 @@
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd45 <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd45[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd54 <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd54[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd6f <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd6f[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd8a <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd8a[0m)
+t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+ t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+  t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+   t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+    t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dd8731 <.text>
+     t0: [33m0x7ffff7dee280[0m: call 0x7ffff7de46ae <_dl_rtld_di_serinfo>
+     t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7de46ae[0m)
+     t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de4b09 <_dl_rtld_di_serinfo>
+      t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dddad7 <.text>
+       t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dddb25 <.text>
+        t0: [33m0x7ffff7de5df0[0m: call 0x7ffff7dd8e12 <.text>
+        t0: 0x7ffff7de5df0: ret (to [32m0x7ffff7dd8e12[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+         t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: 0x7ffff7df05a2: ret (to [32m0x7ffff7de1151[0m)
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+           t0: [41mskipping a frame[0m
+          t0: [41mskipping a frame[0m
+         t0: [41mskipping a frame[0m
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+         t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+            t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+            t0: [41mskipping a frame[0m
+           t0: [41mskipping a frame[0m
+          t0: [41mskipping a frame[0m
+         t0: [41mskipping a frame[0m
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+         t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+            t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+            t0: [41mskipping a frame[0m
+           t0: [41mskipping a frame[0m
+          t0: [41mskipping a frame[0m
+         t0: [41mskipping a frame[0m
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+         t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+            t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+            t0: [41mskipping a frame[0m
+           t0: [41mskipping a frame[0m
+          t0: [41mskipping a frame[0m
+         t0: [41mskipping a frame[0m
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+          t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+           t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+            t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+             t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+              t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+              t0: [41mskipping a frame[0m
+             t0: [41mskipping a frame[0m
+            t0: [41mskipping a frame[0m
+           t0: [41mskipping a frame[0m
+          t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+          t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+          t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+          t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+           t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+           t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+           t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+            t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+            t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+            t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+            t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+            t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+             t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de395e <_dl_rtld_di_serinfo>
+              t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+               t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                 t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                  t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                   t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                    t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                     t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                      t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                       t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                       t0: 0x7ffff7df05a2: ret (to [32m0x7ffff7de6ed6[0m)
+                       t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                        t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                         t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                          t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                           t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                            t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                             t0: [33m0x7ffff7dd5f10[0m: call 0x7ffff7dd901f <.text>
+                              t0: [33m0x7ffff7df0610[0m: call 0x7ffff7dd5f3f <.text>
+                               t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dd5f3f <.text>
+                                t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de80fc <_dl_get_tls_static_info>
+                                 t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de816c <_dl_get_tls_static_info>
+                                  t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de816c <_dl_get_tls_static_info>
+                                  t0: [41mskipping a frame[0m
+                                 t0: [41mskipping a frame[0m
+                                t0: [41mskipping a frame[0m
+                               t0: [41mskipping a frame[0m
+                              t0: [41mskipping a frame[0m
+                             t0: 0x7ffff7dd6060: ret (to [32m0x7ffff7dd901f[0m)
+                             t0: [33m0x7ffff7de81b0[0m: call 0x7ffff7dd93ea <.text>
+                             t0: 0x7ffff7de8396: ret (to [32m0x7ffff7dd93ea[0m)
+                             t0: [33m0x7ffff7de5df0[0m: call 0x7ffff7dd94f1 <.text>
+                             t0: 0x7ffff7de5df0: ret (to [32m0x7ffff7dd94f1[0m)
+                             t0: [33m0x7fffe33b7678[0m: call 0x7ffff7de58dd <_dl_rtld_di_serinfo>
+                              t0: [33m0x7fffe33b7e80[0m: call 0x7fffe33b7681 <_init>
+                               t0: [33m0x7fffe33c48b0[0m: call 0x7fffe33b7fa7 <__pthread_initialize_minimal>
+                               t0: 0x7fffe33c4a40: ret (to [32m0x7fffe33b7fa7[0m)
+                               t0: [33m0x7fffe33c48b0[0m: call 0x7fffe33b7fcd <__pthread_initialize_minimal>
+                               t0: 0x7fffe33c4a40: ret (to [32m0x7fffe33b7fcd[0m)
+                               t0: [33m0x7fffe33b7690[0m: call 0x46 <>
+                                t0: [33m0x7ffff7de80c0[0m: call 0x7fffe33b8004 <__pthread_initialize_minimal>
+                                t0: 0x7ffff7de80d4: ret (to [32m0x7fffe33b8004[0m)
+                                t0: [33m0x7fffe33b7690[0m: call 0x3 <>
+                                 t0: [33m0x7fffe3b5d090[0m: call 0x7fffe33b8058 <__pthread_initialize_minimal>
+                                 t0: 0x7fffe3b5d0a8: ret (to [32m0x7fffe33b8058[0m)
+                                 t0: [33m0x7fffe33b7690[0m: call 0x36 <>
+                                  t0: [33m0x7fffe3b77970[0m: call 0x7fffe33b81ac <__pthread_initialize_minimal>
+                                   t0: [33m0x7fffe3b779d0[0m: call 0x7fffe3b77989 <__libc_pthread_init>
+                                   t0: 0x7fffe3b77ae6: ret (to [32m0x7fffe3b77989[0m)
+                                  t0: 0x7fffe3b779c9: ret (to [32m0x7fffe33b81ac[0m)
+                                 t0: [41mskipping a frame[0m
+                                t0: [41mskipping a frame[0m
+                               t0: [41mskipping a frame[0m
+                              t0: 0x7fffe33b81db: ret (to [32m0x7fffe33b7681[0m)
+                             t0: 0x7fffe33b7685: ret (to [32m0x7ffff7de58dd[0m)
+                             t0: [33m0x7fffe33b7c80[0m: call 0x7ffff7de5932 <_dl_rtld_di_serinfo>
+                              t0: [33m0x7fffe33b7bf0[0m: call 0x7ffff7de5932 <_dl_rtld_di_serinfo>
+                              t0: 0x7fffe33b7c31: ret (to [32m0x7ffff7de5932[0m)
+                              t0: [33m0x7fffe33c5de0[0m: call 0x7ffff7de5932 <_dl_rtld_di_serinfo>
+                               t0: [33m0x7fffe33b7690[0m: call 0x44 <>
+                                t0: [33m0x7ffff7dee280[0m: call 0x7fffe33c5e0e <elision_init>
+                                t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe33c5e0e[0m)
+                                t0: [33m0x7ffff7dee280[0m: call 0x7fffe33c5e22 <elision_init>
+                                t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe33c5e22[0m)
+                                t0: [33m0x7ffff7dee280[0m: call 0x7fffe33c5e36 <elision_init>
+                                t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe33c5e36[0m)
+                                t0: [33m0x7ffff7dee280[0m: call 0x7fffe33c5e4a <elision_init>
+                                t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe33c5e4a[0m)
+                                t0: [33m0x7ffff7dee280[0m: call 0x7fffe33c5e5e <elision_init>
+                                t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe33c5e5e[0m)
+                               t0: [41mskipping a frame[0m
+                              t0: 0x7fffe33c5e87: ret (to [32m0x7ffff7de5932[0m)
+                              t0: [33m0x7fffe3a68920[0m: call 0x7ffff7de573c <_dl_rtld_di_serinfo>
+                               t0: [33m0x7fffe3a77980[0m: call 0x7fffe3a68a3d <_init>
+                               t0: 0x7fffe3a779cf: ret (to [32m0x7fffe3a68a3d[0m)
+                              t0: 0x7fffe3a68a47: ret (to [32m0x7ffff7de573c[0m)
+                              t0: [33m0x7fffe35d1d20[0m: call 0x7ffff7de573c <_dl_rtld_di_serinfo>
+                              t0: 0x7fffe35d1d36: ret (to [32m0x7ffff7de573c[0m)
+                              t0: [33m0x7fffe37d63b8[0m: call 0x7ffff7de573c <_dl_rtld_di_serinfo>
+                              t0: 0x7fffe37d63ce: ret (to [32m0x7ffff7de573c[0m)
+                              t0: [33m0x7fffe3e3d9f8[0m: call 0x7ffff7de573c <_dl_rtld_di_serinfo>
+                              t0: 0x7fffe3e3da0e: ret (to [32m0x7ffff7de573c[0m)
+                              t0: [33m0x7fffe3e3da10[0m: call 0x69 <>
+                               t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3e3e418 <.text>
+                                t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                               t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3e3e418[0m)
+                               t0: [33m0x7fffe3e3da10[0m: call 0x44 <>
+                                t0: [33m0x7fffe3b56a80[0m: call 0x7fffe3e3e385 <.text>
+                                 t0: [33m0x7fffe3e3da10[0m: call 0x5 <>
+                                  t0: [33m0x7fffe3a68f20[0m: call 0x7fffe3e3e375 <.text>
+                                  t0: 0x7fffe3a68f30: ret (to [32m0x7fffe3e3e375[0m)
+                                  t0: [33m0x7fffe3b56a80[0m: call 0x7fffe3e3e385 <.text>
+                                   t0: [33m0x7fffe3a68f20[0m: call 0x7fffe3e3e375 <.text>
+                                   t0: 0x7fffe3a68f30: ret (to [32m0x7fffe3e3e375[0m)
+                                   t0: [33m0x7fffe3e463f0[0m: call 0x7fffe3e3e498 <.text>
+                                    t0: [33m0x7fffe3e3da10[0m: call 0x66 <>
+                                     t0: [33m0x7fffe3ac5ea0[0m: call 0x7fffe3e4642e <selinuxfs_exists>
+                                      t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ac5eba <fopen64>
+                                       t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ac5eba <fopen64>
+                                        t0: [33m0x7fffe3bad1f0[0m: call 0x7fffe3ad8701 <_IO_str_seekoff>
+                                         t0: [33m0x7fffe33bbfa0[0m: call 0x7fffe3bad224 <_dl_addr>
+                                         t0: 0x7fffe33bc04e: ret (to [32m0x7fffe3bad224[0m)
+                                         t0: [33m0x7fffe3a67fd0[0m: call 0x5 <>
+                                          t0: [33m0x7ffff7de9690[0m: call 0x7fffe3bad22c <_dl_addr>
+                                           t0: [33m0x7fffe33bd7a0[0m: call 0x7fffe3bad3bc <_dl_addr>
+                                           t0: 0x7fffe33bd7ea: ret (to [32m0x7fffe3bad3bc[0m)
+                                          t0: [41mskipping a frame[0m
+                                         t0: [41mskipping a frame[0m
+                                        t0: 0x7fffe3bad3cd: ret (to [32m0x7fffe3ad8701[0m)
+                                        t0: [33m0x7fffe3a67fd0[0m: call 0x4 <>
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad85f0 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad85f0[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8604 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8604[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8618 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8618[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad862c <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad862c[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8640 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8640[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8654 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8654[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8668 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8668[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad867c <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad867c[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad8690 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad8690[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad86a4 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad86a4[0m)
+                                         t0: [33m0x7ffff7dee280[0m: call 0x7fffe3ad86b8 <_IO_str_seekoff>
+                                         t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe3ad86b8[0m)
+                                         t0: [33m0x7fffe3ae2200[0m: call 0x7fffe3adae1c <_IO_str_seekoff>
+                                          t0: [33m0x7fffe3b5d620[0m: call 0x7fffe3ae2209 <__default_morecore>
+                                           t0: [33m0x7fffe3b5d5b0[0m: call 0x7fffe3b5d648 <sbrk>
+                                           t0: 0x7fffe3b5d5d5: ret (to [32m0x7fffe3b5d648[0m)
+                                           t0: [33m0x7fffe3b5d5b0[0m: call 0x7fffe3b5d691 <sbrk>
+                                           t0: 0x7fffe3b5d5d5: ret (to [32m0x7fffe3b5d691[0m)
+                                          t0: [41mskipping a frame[0m
+                                         t0: 0x7fffe3ae221a: ret (to [32m0x7fffe3adae1c[0m)
+                                         t0: [33m0x7fffe3ae2200[0m: call 0x7fffe3adb0a8 <_IO_str_seekoff>
+                                          t0: [33m0x7fffe3b5d620[0m: call 0x7fffe3ae2209 <__default_morecore>
+                                          t0: 0x7fffe3b5d681: ret (to [32m0x7fffe3ae2209[0m)
+                                         t0: 0x7fffe3ae221a: ret (to [32m0x7fffe3adb0a8[0m)
+                                         t0: [33m0x7fffe3ad4920[0m: call 0x7fffe3ad31a2 <_IO_file_xsputn>
+                                          t0: [33m0x7fffe33c2c90[0m: call 0x7fffe3ad4977 <_IO_link_in>
+                                          t0: 0x7fffe33c2cc2: ret (to [32m0x7fffe3ad4977[0m)
+                                          t0: [33m0x7fffe33c2cf0[0m: call 0x7fffe3ad4b4a <_IO_link_in>
+                                          t0: 0x7fffe33c2d18: ret (to [32m0x7fffe3ad4b4a[0m)
+                                         t0: 0x7fffe3ad4b60: ret (to [32m0x7fffe3ad31a2[0m)
+                                         t0: [33m0x7fffe3ad3520[0m: call 0x7fffe3ac5f1a <fopen64>
+                                          t0: [33m0x7fffe3b56d50[0m: call 0x7fffe3ad35fa <_IO_file_fopen>
+                                          t0: 0x7fffe3b56dc2: ret (to [32m0x7fffe3ad35fa[0m)
+                                          t0: [33m0x7fffe3ad4920[0m: call 0x7fffe3ad3671 <_IO_file_fopen>
+                                          t0: 0x7fffe3ad4b60: ret (to [32m0x7fffe3ad3671[0m)
+                                         t0: 0x7fffe3ad358f: ret (to [32m0x7fffe3ac5f1a[0m)
+                                        t0: [41mskipping a frame[0m
+                                       t0: [41mskipping a frame[0m
+                                      t0: [41mskipping a frame[0m
+                                     t0: 0x7fffe3ac5f3b: ret (to [32m0x7fffe3e4642e[0m)
+                                     t0: [33m0x7fffe3e3da10[0m: call 0x4d <>
+                                      t0: [33m0x7fffe3ad04e0[0m: call 0x7fffe3e46451 <selinuxfs_exists>
+                                      t0: 0x7fffe3ad0501: ret (to [32m0x7fffe3e46451[0m)
+                                      t0: [33m0x7fffe3e3da10[0m: call 0x3a <>
+                                       t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e46464 <selinuxfs_exists>
+                                        t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ac6bfc <__getdelim>
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ac6bfc <__getdelim>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ac6bfc[0m)
+                                         t0: [33m0x7fffe3ad4f70[0m: call 0x7fffe3ac6db8 <__getdelim>
+                                          t0: [33m0x7fffe3ad4090[0m: call 0x7fffe3ac6db8 <__getdelim>
+                                           t0: [33m0x7fffe3ad5370[0m: call 0x7fffe3ad42c4 <_IO_file_underflow>
+                                            t0: [33m0x7fffe3ac5170[0m: call 0x7fffe3ad53e9 <_IO_doallocbuf>
+                                             t0: [33m0x7fffe3ad21f0[0m: call 0x7fffe3ac51cf <_IO_file_doallocate>
+                                              t0: [33m0x7fffe3b568c0[0m: call 0x7fffe3ac51cf <_IO_file_doallocate>
+                                              t0: 0x7fffe3b568db: ret (to [32m0x7fffe3ac51cf[0m)
+                                              t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ac51fc <_IO_file_doallocate>
+                                               t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ac51fc <_IO_file_doallocate>
+                                               t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ac51fc[0m)
+                                               t0: [33m0x7fffe3ad5310[0m: call 0x7fffe3ac521a <_IO_file_doallocate>
+                                               t0: 0x7fffe3ad5343: ret (to [32m0x7fffe3ac521a[0m)
+                                              t0: [41mskipping a frame[0m
+                                             t0: [41mskipping a frame[0m
+                                            t0: 0x7fffe3ac5241: ret (to [32m0x7fffe3ad53e9[0m)
+                                            t0: [33m0x7fffe3ad4e20[0m: call 0x7fffe3ad4178 <_IO_file_underflow>
+                                            t0: 0x7fffe3ad4e9c: ret (to [32m0x7fffe3ad4178[0m)
+                                            t0: [33m0x7fffe3ad2980[0m: call 0x7fffe3ad41b8 <_IO_file_underflow>
+                                             t0: [33m0x7fffe3b57180[0m: call 0x7fffe3ad41b8 <_IO_file_underflow>
+                                             t0: 0x7fffe3b57199: ret (to [32m0x7fffe3ad41b8[0m)
+                                            t0: [41mskipping a frame[0m
+                                           t0: [41mskipping a frame[0m
+                                          t0: 0x7fffe3ad41e7: ret (to [32m0x7fffe3ac6db8[0m)
+                                         t0: [41mskipping a frame[0m
+                                        t0: [41mskipping a frame[0m
+                                       t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e46464[0m)
+                                       t0: [33m0x7fffe3e3da10[0m: call 0x75 <>
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3ac6b10[0m: call 0x7fffe3e4648b <selinuxfs_exists>
+                                         t0: [33m0x7fffe3ad4f70[0m: call 0x7fffe3ac6db8 <__getdelim>
+                                          t0: [33m0x7fffe3ad4090[0m: call 0x7fffe3ac6db8 <__getdelim>
+                                           t0: [33m0x7fffe3ad4e20[0m: call 0x7fffe3ad4178 <_IO_file_underflow>
+                                           t0: 0x7fffe3ad4e9c: ret (to [32m0x7fffe3ad4178[0m)
+                                           t0: [33m0x7fffe3ad2980[0m: call 0x7fffe3ad41b8 <_IO_file_underflow>
+                                            t0: [33m0x7fffe3b57180[0m: call 0x7fffe3ad41b8 <_IO_file_underflow>
+                                            t0: 0x7fffe3b57199: ret (to [32m0x7fffe3ad41b8[0m)
+                                           t0: [41mskipping a frame[0m
+                                          t0: [41mskipping a frame[0m
+                                         t0: [41mskipping a frame[0m
+                                        t0: 0x7fffe3ac6b6b: ret (to [32m0x7fffe3e4648b[0m)
+                                        t0: [33m0x7fffe3e3da10[0m: call 0x1 <>
+                                         t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3e464b4 <selinuxfs_exists>
+                                         t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3e464b4[0m)
+                                         t0: [33m0x7fffe3e3da10[0m: call 0x16 <>
+                                          t0: [33m0x7fffe3ac52c0[0m: call 0x7fffe3e464bc <selinuxfs_exists>
+                                           t0: [33m0x7fffe3ad4630[0m: call 0x7fffe3ac537d <_IO_fclose>
+                                            t0: [33m0x7fffe33c2c90[0m: call 0x7fffe3ad4682 <_IO_un_link>
+                                            t0: 0x7fffe33c2cc2: ret (to [32m0x7fffe3ad4682[0m)
+                                            t0: [33m0x7fffe33c2cf0[0m: call 0x7fffe3ad4849 <_IO_un_link>
+                                            t0: 0x7fffe33c2d18: ret (to [32m0x7fffe3ad4849[0m)
+                                           t0: 0x7fffe3ad4863: ret (to [32m0x7fffe3ac537d[0m)
+                                           t0: [33m0x7fffe3ad3200[0m: call 0x7fffe3ac53f7 <_IO_fclose>
+                                            t0: [33m0x7fffe3ad6c50[0m: call 0x7fffe3ad3232 <_IO_file_close_it>
+                                             t0: [33m0x7fffe3ad18b0[0m: call 0x7fffe3ad3268 <_IO_file_close_it>
+                                              t0: [33m0x7fffe3b57a50[0m: call 0x7fffe3ad3268 <_IO_file_close_it>
+                                              t0: 0x7fffe3b57a5f: ret (to [32m0x7fffe3ad3268[0m)
+                                              t0: [33m0x7fffe3ad5310[0m: call 0x7fffe3ad32dc <_IO_file_close_it>
+                                               t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3ad535b <_IO_setb>
+                                               t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3ad535b[0m)
+                                              t0: 0x7fffe3ad5343: ret (to [32m0x7fffe3ad32dc[0m)
+                                              t0: [33m0x7fffe3ad4630[0m: call 0x7fffe3ad3314 <_IO_file_close_it>
+                                              t0: 0x7fffe3ad4863: ret (to [32m0x7fffe3ad3314[0m)
+                                             t0: [41mskipping a frame[0m
+                                            t0: [41mskipping a frame[0m
+                                           t0: 0x7fffe3ad3338: ret (to [32m0x7fffe3ac53f7[0m)
+                                           t0: [33m0x7fffe3ad33a0[0m: call 0x7fffe3ac532e <_IO_fclose>
+                                            t0: [33m0x7fffe3ad5cd0[0m: call 0x7fffe3ac532e <_IO_fclose>
+                                            t0: 0x7fffe3ad5d45: ret (to [32m0x7fffe3ac532e[0m)
+                                            t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3ac536e <_IO_fclose>
+                                            t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3ac536e[0m)
+                                           t0: [41mskipping a frame[0m
+                                          t0: 0x7fffe3ac5374: ret (to [32m0x7fffe3e464bc[0m)
+                                         t0: [41mskipping a frame[0m
+                                        t0: [41mskipping a frame[0m
+                                       t0: [41mskipping a frame[0m
+                                      t0: [41mskipping a frame[0m
+                                     t0: [41mskipping a frame[0m
+                                    t0: [41mskipping a frame[0m
+                                   t0: 0x7fffe3e464db: ret (to [32m0x7fffe3e3e498[0m)
+                                   t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3e3e4a6 <.text>
+                                   t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3e3e4a6[0m)
+                                   t0: [33m0x7fffe3e3da10[0m: call 0x65 <>
+                                    t0: [33m0x7fffe3b57350[0m: call 0x7fffe3e3e442 <.text>
+                                     t0: [33m0x7fffe3a68ab0[0m: call 0x55555555987a <.text>
+                                      t0: [33m0x7fffe3a8a4e0[0m: call 0x7fffe3a68afc <__libc_start_main>
+                                      t0: 0x7fffe3a8a594: ret (to [32m0x7fffe3a68afc[0m)
+                                      t0: [33m0x555555557758[0m: call 0x55555556a2f1 <_obstack_memory_used>
+                                      t0: 0x55555555776e: ret (to [32m0x55555556a2f1[0m)
+                                      t0: [33m0x7fffe3a85cc0[0m: call 0x7fffe3a68b4f <__libc_start_main>
+                                       t0: [33m0x7fffe3a85c20[0m: call 0x7fffe3a68b4f <__libc_start_main>
+                                       t0: 0x7fffe3a85ca3: ret (to [32m0x7fffe3a68b4f[0m)
+                                       t0: [33m0x555555557e90[0m: call 0x7fffe3a68b97 <__libc_start_main>
+                                        t0: [33m0x7fffe3a740c0[0m: call 0x555555557ecc <.text>
+                                         t0: [33m0x7fffe33be7f0[0m: call 0x7fffe3a74138 <setlocale>
+                                         t0: 0x7fffe33be877: ret (to [32m0x7fffe3a74138[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a741ee <setlocale>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a741ee[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                         t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                         t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                         t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                          t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                          t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                         t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                         t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a7c2f0 <textdomain>
+                                          t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a7c2f0 <textdomain>
+                                          t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a7c2f0[0m)
+                                          t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3a75e58 <setlocale>
+                                          t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3a75e58[0m)
+                                          t0: [33m0x7fffe3b56e80[0m: call 0x7fffe3a75e89 <setlocale>
+                                          t0: 0x7fffe3b56edd: ret (to [32m0x7fffe3a75e89[0m)
+                                          t0: [33m0x7fffe3b568c0[0m: call 0x7fffe3a75ea7 <setlocale>
+                                          t0: 0x7fffe3b568db: ret (to [32m0x7fffe3a75ea7[0m)
+                                          t0: [33m0x7fffe3b62af0[0m: call 0x7fffe3a75edc <setlocale>
+                                          t0: 0x7fffe3b62b45: ret (to [32m0x7fffe3a75edc[0m)
+                                          t0: [33m0x7fffe3b57a50[0m: call 0x7fffe3a75f3b <setlocale>
+                                          t0: 0x7fffe3b57a5f: ret (to [32m0x7fffe3a75f3b[0m)
+                                          t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75cbe <setlocale>
+                                           t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75cbe <setlocale>
+                                           t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75cbe[0m)
+                                           t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a75cd3 <setlocale>
+                                            t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                             t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                             t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                             t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                              t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                              t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                              t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                               t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                               t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                               t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                 t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                 t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                 t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                  t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                  t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                  t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                   t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                   t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                   t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                    t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                    t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                    t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                     t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                     t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                     t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                      t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                      t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                      t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                       t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                       t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                       t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                        t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                        t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                        t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a75261 <setlocale>
+                                                         t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a75261 <setlocale>
+                                                         t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a75261[0m)
+                                                         t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                          t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                           t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                           t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                           t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                           t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                           t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                            t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                            t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                           t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                           t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                            t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                             t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                             t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                             t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                             t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                             t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                              t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                              t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                             t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                             t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                              t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                               t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                               t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                               t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                               t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                               t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                               t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                               t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                 t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                 t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                 t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                 t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                 t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                 t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                 t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                 t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                 t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                 t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                 t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                  t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                  t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                 t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                 t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                  t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                   t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                   t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                   t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                   t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                   t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                   t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                   t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                   t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                   t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                   t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                   t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                    t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                    t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                   t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                   t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                    t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                     t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                     t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                     t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                     t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                     t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                     t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                     t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                     t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                     t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                     t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                     t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                      t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                      t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                     t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                     t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                      t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                       t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                       t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                       t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                       t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                       t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                       t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                       t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                       t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                       t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                       t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                       t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                        t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                        t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                       t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                       t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                        t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                         t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                         t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                         t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                         t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                         t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                         t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                         t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                          t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                          t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                         t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                         t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                          t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                           t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                           t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                           t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                           t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                           t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                           t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                           t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                            t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                            t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                           t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                           t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                            t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                             t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                             t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                             t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                             t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                             t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                             t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                             t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                              t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                              t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                             t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                             t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                              t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                               t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                               t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b3c <setlocale>
+                                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b3c[0m)
+                                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b6e <setlocale>
+                                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b6e[0m)
+                                                                               t0: [33m0x7fffe3a89790[0m: call 0x7fffe3a74b8f <setlocale>
+                                                                               t0: 0x7fffe3a89807: ret (to [32m0x7fffe3a74b8f[0m)
+                                                                               t0: [33m0x7fffe3ae7470[0m: call 0x7fffe3a74a6a <setlocale>
+                                                                               t0: 0x7fffe3ae767d: ret (to [32m0x7fffe3a74a6a[0m)
+                                                                               t0: [33m0x7fffe3b2da60[0m: call 0x7fffe3a75a99 <setlocale>
+                                                                                t0: [33m0x7fffe3b5dea0[0m: call 0x7fffe3b2ddc8 <sysconf>
+                                                                                t0: 0x7fffe3b5deb0: ret (to [32m0x7fffe3b2ddc8[0m)
+                                                                               t0: 0x7fffe3b2db8b: ret (to [32m0x7fffe3a75a99[0m)
+                                                                               t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a74300 <setlocale>
+                                                                                t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                                 t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                                                                 t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                                                                 t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a7401c <__gconv_get_cache>
+                                                                                  t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a7401c <__gconv_get_cache>
+                                                                                  t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a7401c[0m)
+                                                                                  t0: [33m0x7fffe33bf180[0m: call 0x7fffe3a7437f <setlocale>
+                                                                                  t0: 0x7fffe33bf1fc: ret (to [32m0x7fffe3a7437f[0m)
+                                                                                  t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3a74389 <setlocale>
+                                                                                  t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3a74389[0m)
+                                                                                  t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3a74393 <setlocale>
+                                                                                  t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3a74393[0m)
+                                                                                 t0: [41mskipping a frame[0m
+                                                                                t0: [41mskipping a frame[0m
+                                                                               t0: [41mskipping a frame[0m
+                                                                              t0: [41mskipping a frame[0m
+                                                                             t0: [41mskipping a frame[0m
+                                                                            t0: [41mskipping a frame[0m
+                                                                           t0: [41mskipping a frame[0m
+                                                                          t0: [41mskipping a frame[0m
+                                                                         t0: [41mskipping a frame[0m
+                                                                        t0: [41mskipping a frame[0m
+                                                                       t0: [41mskipping a frame[0m
+                                                                      t0: [41mskipping a frame[0m
+                                                                     t0: [41mskipping a frame[0m
+                                                                    t0: [41mskipping a frame[0m
+                                                                   t0: [41mskipping a frame[0m
+                                                                  t0: [41mskipping a frame[0m
+                                                                 t0: [41mskipping a frame[0m
+                                                                t0: [41mskipping a frame[0m
+                                                               t0: [41mskipping a frame[0m
+                                                              t0: [41mskipping a frame[0m
+                                                             t0: [41mskipping a frame[0m
+                                                            t0: [41mskipping a frame[0m
+                                                           t0: [41mskipping a frame[0m
+                                                          t0: [41mskipping a frame[0m
+                                                         t0: [41mskipping a frame[0m
+                                                        t0: [41mskipping a frame[0m
+                                                       t0: [41mskipping a frame[0m
+                                                      t0: [41mskipping a frame[0m
+                                                     t0: [41mskipping a frame[0m
+                                                    t0: [41mskipping a frame[0m
+                                                   t0: [41mskipping a frame[0m
+                                                  t0: [41mskipping a frame[0m
+                                                 t0: [41mskipping a frame[0m
+                                                t0: [41mskipping a frame[0m
+                                               t0: [41mskipping a frame[0m
+                                              t0: [41mskipping a frame[0m
+                                             t0: [41mskipping a frame[0m
+                                            t0: [41mskipping a frame[0m
+                                           t0: [41mskipping a frame[0m
+                                          t0: [41mskipping a frame[0m
+                                         t0: [41mskipping a frame[0m
+                                        t0: 0x7fffe3a741a5: ret (to [32m0x555555557ecc[0m)
+                                        t0: [33m0x7fffe3a779d0[0m: call 0x555555557edf <.text>
+                                         t0: [33m0x7fffe33be7f0[0m: call 0x7fffe3a77a2d <bindtextdomain>
+                                         t0: 0x7fffe33be877: ret (to [32m0x7fffe3a77a2d[0m)
+                                         t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3a77b19 <bindtextdomain>
+                                          t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3a77b19 <bindtextdomain>
+                                          t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3a77b19[0m)
+                                          t0: [33m0x7fffe33bf180[0m: call 0x7fffe3a77aec <bindtextdomain>
+                                          t0: 0x7fffe33bf1fc: ret (to [32m0x7fffe3a77aec[0m)
+                                         t0: [41mskipping a frame[0m
+                                        t0: 0x7fffe3a779fc: ret (to [32m0x555555557edf[0m)
+                                        t0: [33m0x7fffe3a7bbb0[0m: call 0x555555557eeb <.text>
+                                         t0: [33m0x7fffe33be7f0[0m: call 0x7fffe3a7bbf0 <textdomain>
+                                         t0: 0x7fffe33be877: ret (to [32m0x7fffe3a7bbf0[0m)
+                                         t0: [33m0x7fffe3ae4a10[0m: call 0x7fffe3a7bca0 <textdomain>
+                                          t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ae4a2a <strdup>
+                                           t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ae4a2a <strdup>
+                                           t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ae4a2a[0m)
+                                           t0: [33m0x7fffe33bf180[0m: call 0x7fffe3a7bc50 <textdomain>
+                                           t0: 0x7fffe33bf1fc: ret (to [32m0x7fffe3a7bc50[0m)
+                                          t0: [41mskipping a frame[0m
+                                         t0: [41mskipping a frame[0m
+                                        t0: 0x7fffe3a7bc59: ret (to [32m0x555555557eeb[0m)
+                                        t0: [33m0x7fffe3a8a4e0[0m: call 0x555555557f01 <.text>
+                                        t0: 0x7fffe3a8a594: ret (to [32m0x555555557f01[0m)
+                                        t0: [33m0x7fffe3b58cf0[0m: call 0x555555558861 <.text>
+                                         t0: [33m0x7fffe3b5cd80[0m: call 0x7fffe3b58d0c <isatty>
+                                         t0: 0x7fffe3b5ce24: ret (to [32m0x7fffe3b58d0c[0m)
+                                        t0: 0x7fffe3b58d28: ret (to [32m0x555555558861[0m)
+                                        t0: [33m0x7fffe3a89790[0m: call 0x555555557ffd <.text>
+                                        t0: 0x7fffe3a89807: ret (to [32m0x555555557ffd[0m)
+                                        t0: [33m0x7fffe3a89790[0m: call 0x555555558052 <.text>
+                                        t0: 0x7fffe3a89807: ret (to [32m0x555555558052[0m)
+                                        t0: [33m0x7fffe3b5d6d0[0m: call 0x55555555807c <.text>
+                                         t0: [33m0x7fffe3a89790[0m: call 0x55555555809e <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x55555555809e[0m)
+                                         t0: [33m0x7fffe3b4adf0[0m: call 0x55555555811b <.text>
+                                          t0: [33m0x7fffe3a89790[0m: call 0x7fffe3b4ac19 <confstr>
+                                          t0: 0x7fffe3a89807: ret (to [32m0x7fffe3b4ac19[0m)
+                                         t0: 0x7fffe3b4ae02: ret (to [32m0x55555555811b[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x555555558ee7 <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x555555558ee7[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x55555556386c <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x55555556386c[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x555555563884 <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x555555563884[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x55555556389c <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x55555556389c[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x555555559723 <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x555555559723[0m)
+                                         t0: [33m0x7fffe3a68f20[0m: call 0x55555556755c <.text>
+                                         t0: 0x7fffe3a68f30: ret (to [32m0x55555556755c[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3a68f20[0m: call 0x55555556755c <.text>
+                                         t0: 0x7fffe3a68f30: ret (to [32m0x55555556755c[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3a89790[0m: call 0x555555558ac7 <.text>
+                                         t0: 0x7fffe3a89807: ret (to [32m0x555555558ac7[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x5555555697f2 <_obstack_memory_used>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x5555555697f2[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3a68f20[0m: call 0x55555555e897 <.text>
+                                         t0: 0x7fffe3a68f30: ret (to [32m0x55555555e897[0m)
+                                         t0: [33m0x7fffe3b26980[0m: call 0x55555555e8a8 <.text>
+                                          t0: [33m0x7fffe3b56e80[0m: call 0x7fffe3b269b3 <opendir>
+                                          t0: 0x7fffe3b56edd: ret (to [32m0x7fffe3b269b3[0m)
+                                          t0: [33m0x7fffe3b568c0[0m: call 0x7fffe3b269cd <opendir>
+                                          t0: 0x7fffe3b568db: ret (to [32m0x7fffe3b269cd[0m)
+                                          t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3b26a16 <opendir>
+                                           t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3b26a16 <opendir>
+                                           t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3b26a16[0m)
+                                          t0: [41mskipping a frame[0m
+                                         t0: 0x7fffe3b26a72: ret (to [32m0x55555555e8a8[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                         t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3b26c40[0m: call 0x55555555ea70 <.text>
+                                         t0: 0x7fffe3b26d33: ret (to [32m0x55555555ea70[0m)
+                                         t0: [33m0x7fffe3b26c10[0m: call 0x55555555ebee <.text>
+                                          t0: [33m0x7fffe3ade9c0[0m: call 0x7fffe3b26c1d <closedir>
+                                          t0: 0x7fffe3adeb32: ret (to [32m0x7fffe3b26c1d[0m)
+                                          t0: [33m0x7fffe3b57a50[0m: call 0x55555555ebee <.text>
+                                          t0: 0x7fffe3b57a5f: ret (to [32m0x55555555ebee[0m)
+                                          t0: [33m0x555555557e70[0m: call 0x55555555a40c <.text>
+                                           t0: [33m0x7fffe3ade9c0[0m: call 0x55555555a40c <.text>
+                                           t0: 0x7fffe3adeb32: ret (to [32m0x55555555a40c[0m)
+                                           t0: [33m0x7fffe3ade0e0[0m: call 0x555555568489 <.text>
+                                           t0: 0x7fffe3ade28b: ret (to [32m0x555555568489[0m)
+                                           t0: [33m0x7fffe3a85cc0[0m: call 0x55555555a35b <.text>
+                                            t0: [33m0x7fffe3a85c20[0m: call 0x55555555a35b <.text>
+                                            t0: 0x7fffe3a85ca3: ret (to [32m0x55555555a35b[0m)
+                                            t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                            t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                            t0: [33m0x7fffe3ae48a0[0m: call 0x5555555643d4 <.text>
+                                             t0: [33m0x7fffe3ae8990[0m: call 0x5555555643d4 <.text>
+                                             t0: 0x7fffe3ae8e3c: ret (to [32m0x5555555643d4[0m)
+                                             t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                             t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                             t0: [33m0x7fffe3ae48a0[0m: call 0x555555564554 <.text>
+                                              t0: [33m0x7fffe3ae8990[0m: call 0x555555564554 <.text>
+                                              t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564554[0m)
+                                              t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                              t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                              t0: [33m0x7fffe3ae48a0[0m: call 0x55555556445c <.text>
+                                               t0: [33m0x7fffe3ae8990[0m: call 0x55555556445c <.text>
+                                               t0: 0x7fffe3ae8e3c: ret (to [32m0x55555556445c[0m)
+                                               t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                               t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                               t0: [33m0x7fffe3ae48a0[0m: call 0x555555564480 <.text>
+                                                t0: [33m0x7fffe3ae8990[0m: call 0x555555564480 <.text>
+                                                t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564480[0m)
+                                                t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                t0: [33m0x7fffe3ae48a0[0m: call 0x55555556445c <.text>
+                                                 t0: [33m0x7fffe3ae8990[0m: call 0x55555556445c <.text>
+                                                 t0: 0x7fffe3ae8e3c: ret (to [32m0x55555556445c[0m)
+                                                 t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                 t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                 t0: [33m0x7fffe3ae48a0[0m: call 0x5555555643d4 <.text>
+                                                  t0: [33m0x7fffe3ae8990[0m: call 0x5555555643d4 <.text>
+                                                  t0: 0x7fffe3ae8e3c: ret (to [32m0x5555555643d4[0m)
+                                                  t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                  t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                  t0: [33m0x7fffe3ae48a0[0m: call 0x555555564554 <.text>
+                                                   t0: [33m0x7fffe3ae8990[0m: call 0x555555564554 <.text>
+                                                   t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564554[0m)
+                                                   t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                   t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                   t0: [33m0x7fffe3ae48a0[0m: call 0x55555556445c <.text>
+                                                    t0: [33m0x7fffe3ae8990[0m: call 0x55555556445c <.text>
+                                                    t0: 0x7fffe3ae8e3c: ret (to [32m0x55555556445c[0m)
+                                                    t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                    t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                    t0: [33m0x7fffe3ae48a0[0m: call 0x555555564480 <.text>
+                                                     t0: [33m0x7fffe3ae8990[0m: call 0x555555564480 <.text>
+                                                     t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564480[0m)
+                                                     t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                     t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                     t0: [33m0x7fffe3ae48a0[0m: call 0x55555556445c <.text>
+                                                      t0: [33m0x7fffe3ae8990[0m: call 0x55555556445c <.text>
+                                                      t0: 0x7fffe3ae8e3c: ret (to [32m0x55555556445c[0m)
+                                                      t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                      t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                      t0: [33m0x7fffe3ae48a0[0m: call 0x555555564480 <.text>
+                                                       t0: [33m0x7fffe3ae8990[0m: call 0x555555564480 <.text>
+                                                       t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564480[0m)
+                                                       t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                       t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                       t0: [33m0x7fffe3ae48a0[0m: call 0x555555564480 <.text>
+                                                        t0: [33m0x7fffe3ae8990[0m: call 0x555555564480 <.text>
+                                                        t0: 0x7fffe3ae8e3c: ret (to [32m0x555555564480[0m)
+                                                        t0: [33m0x7fffe3a68f20[0m: call 0x55555555a4a1 <.text>
+                                                        t0: 0x7fffe3a68f30: ret (to [32m0x55555555a4a1[0m)
+                                                        t0: [33m0x7fffe3ae48a0[0m: call 0x55555556445c <.text>
+                                                         t0: [33m0x7fffe3ae8990[0m: call 0x55555556445c <.text>
+                                                         t0: 0x7fffe3ae8e3c: ret (to [32m0x55555556445c[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                           t0: [33m0x7fffe3ad4370[0m: call 0x7fffe3ad2a5d <_IO_file_xsputn>
+                                                            t0: [33m0x7fffe3ad5370[0m: call 0x7fffe3ad4508 <_IO_file_overflow>
+                                                             t0: [33m0x7fffe3ac5170[0m: call 0x7fffe3ad53e9 <_IO_doallocbuf>
+                                                              t0: [33m0x7fffe3ad21f0[0m: call 0x7fffe3ac51cf <_IO_file_doallocate>
+                                                               t0: [33m0x7fffe3b568c0[0m: call 0x7fffe3ac51cf <_IO_file_doallocate>
+                                                               t0: 0x7fffe3b568db: ret (to [32m0x7fffe3ac51cf[0m)
+                                                               t0: [33m0x7fffe3a682c0[0m: call 0x7fffe3ac51fc <_IO_file_doallocate>
+                                                                t0: [33m0x7fffe3ade0e0[0m: call 0x7fffe3ac51fc <_IO_file_doallocate>
+                                                                t0: 0x7fffe3ade28b: ret (to [32m0x7fffe3ac51fc[0m)
+                                                                t0: [33m0x7fffe3ad5310[0m: call 0x7fffe3ac521a <_IO_file_doallocate>
+                                                                t0: 0x7fffe3ad5343: ret (to [32m0x7fffe3ac521a[0m)
+                                                               t0: [41mskipping a frame[0m
+                                                              t0: [41mskipping a frame[0m
+                                                             t0: 0x7fffe3ac5241: ret (to [32m0x7fffe3ad53e9[0m)
+                                                             t0: [33m0x7fffe3ad3f10[0m: call 0x7fffe3ad2a5d <_IO_file_xsputn>
+                                                             t0: 0x7fffe3ad3f17: ret (to [32m0x7fffe3ad2a5d[0m)
+                                                             t0: [33m0x7fffe3ad5490[0m: call 0x7fffe3ad2aa3 <_IO_file_xsputn>
+                                                             t0: 0x7fffe3ad5594: ret (to [32m0x7fffe3ad2aa3[0m)
+                                                            t0: [41mskipping a frame[0m
+                                                           t0: [41mskipping a frame[0m
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x7fffe3a68f20[0m: call 0x555555567692 <.text>
+                                                         t0: 0x7fffe3a68f30: ret (to [32m0x555555567692[0m)
+                                                         t0: [33m0x7fffe3a761c0[0m: call 0x5555555661d1 <.text>
+                                                         t0: 0x7fffe3a761d4: ret (to [32m0x5555555661d1[0m)
+                                                         t0: [33m0x7fffe3ad1530[0m: call 0x55555555bc36 <.text>
+                                                          t0: [33m0x7fffe3ad29a0[0m: call 0x7fffe3ad1590 <fwrite_unlocked>
+                                                          t0: 0x7fffe3ad2a24: ret (to [32m0x7fffe3ad1590[0m)
+                                                         t0: 0x7fffe3ad15b0: ret (to [32m0x55555555bc36[0m)
+                                                         t0: [33m0x555555557e70[0m: call 0x555555558bbd <.text>
+                                                          t0: [33m0x7fffe3ade9c0[0m: call 0x555555558bbd <.text>
+                                                          t0: 0x7fffe3adeb32: ret (to [32m0x555555558bbd[0m)
+                                                          t0: [33m0x555555557e70[0m: call 0x555555558bc6 <.text>
+                                                           t0: [33m0x7fffe3ade9c0[0m: call 0x555555558bc6 <.text>
+                                                           t0: 0x7fffe3adeb32: ret (to [32m0x555555558bc6[0m)
+                                                           t0: [33m0x555555557e70[0m: call 0x555555558bce <.text>
+                                                            t0: [33m0x7fffe3ade9c0[0m: call 0x555555558bce <.text>
+                                                            t0: 0x7fffe3adeb32: ret (to [32m0x555555558bce[0m)
+                                                           t0: [41mskipping a frame[0m
+                                                          t0: [41mskipping a frame[0m
+                                  output_ropshadow_normal.txt
+output_ropshadow_overflow.txt
+output_ropshadow.txt
+output.txt
+pin.log
+run_ropshadow_rop.sh
+run_ropshadow.sh
+                       t0: [41mskipping a frame[0m
+                                                        t0: [41mskipping a frame[0m
+                                                       t0: [41mskipping a frame[0m
+                                                      t0: [41mskipping a frame[0m
+                                                     t0: [41mskipping a frame[0m
+                                                    t0: [41mskipping a frame[0m
+                                                   t0: [41mskipping a frame[0m
+                                                  t0: [41mskipping a frame[0m
+                                                 t0: [41mskipping a frame[0m
+                                                t0: [41mskipping a frame[0m
+                                               t0: [41mskipping a frame[0m
+                                              t0: [41mskipping a frame[0m
+                                             t0: [41mskipping a frame[0m
+                                            t0: [41mskipping a frame[0m
+                                           t0: [41mskipping a frame[0m
+                                          t0: [41mskipping a frame[0m
+                                         t0: [41mskipping a frame[0m
+                                        t0: [41mskipping a frame[0m
+                                       t0: 0x555555558ce6: ret (to [32m0x7fffe3a68b97[0m)
+                                       t0: [33m0x7fffe3a8a1d0[0m: call 0x7fffe3a68b9e <__libc_start_main>
+                                        t0: [33m0x7fffe3a8a920[0m: call 0x7fffe3a8a1c7 <__libc_secure_getenv>
+                                        t0: 0x7fffe3a8a984: ret (to [32m0x7fffe3a8a1c7[0m)
+                                        t0: [33m0x7fffe3ad04b0[0m: call 0x555555569c7c <_obstack_memory_used>
+                                         t0: [33m0x7fffe3ace820[0m: call 0x55555556a1ac <_obstack_memory_used>
+                                         t0: 0x7fffe3ace82f: ret (to [32m0x55555556a1ac[0m)
+                                         t0: [33m0x7fffe3ad03d0[0m: call 0x55555556a1b8 <_obstack_memory_used>
+                                          t0: [33m0x7fffe3ad03d0[0m: call 0x55555556a22e <_obstack_memory_used>
+                                           t0: [33m0x7fffe3ac5850[0m: call 0x55555556a1c4 <_obstack_memory_used>
+                                            t0: [33m0x7fffe3ad1740[0m: call 0x7fffe3ac58ed <_IO_fflush>
+                                             t0: [33m0x7fffe3ad3f10[0m: call 0x7fffe3ad17f8 <_IO_file_sync>
+                                              t0: [33m0x7fffe3ad2200[0m: call 0x7fffe3ad3fc1 <_IO_do_write>
+                                               t0: [33m0x7fffe3b57250[0m: call 0x7fffe3ad222d <_IO_file_write>
+                                               t0: 0x7fffe3b5726c: ret (to [32m0x7fffe3ad222d[0m)
+                                              t0: 0x7fffe3ad228d: ret (to [32m0x7fffe3ad3fc1[0m)
+                                             t0: [41mskipping a frame[0m
+                                            t0: 0x7fffe3ad17e8: ret (to [32m0x7fffe3ac58ed[0m)
+                                           t0: 0x7fffe3ac5945: ret (to [32m0x55555556a1c4[0m)
+                                           t0: [33m0x7fffe3ac52c0[0m: call 0x555555569c8a <_obstack_memory_used>
+                                            t0: [33m0x7fffe3ad4630[0m: call 0x7fffe3ac537d <_IO_fclose>
+                                             t0: [33m0x7fffe33c2c90[0m: call 0x7fffe3ad4682 <_IO_un_link>
+                                             t0: 0x7fffe33c2cc2: ret (to [32m0x7fffe3ad4682[0m)
+                                             t0: [33m0x7fffe33c2cf0[0m: call 0x7fffe3ad4849 <_IO_un_link>
+                                             t0: 0x7fffe33c2d18: ret (to [32m0x7fffe3ad4849[0m)
+                                            t0: 0x7fffe3ad4863: ret (to [32m0x7fffe3ac537d[0m)
+               

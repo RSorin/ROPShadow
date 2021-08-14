@@ -1,0 +1,173 @@
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd45 <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd45[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd54 <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd54[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd6f <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd6f[0m)
+t0: [33m0x7ffff7dee280[0m: call 0x7ffff7defd8a <__get_cpu_features>
+t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7defd8a[0m)
+t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+ t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+  t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+   t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+    t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dd8731 <.text>
+     t0: [33m0x7ffff7dee280[0m: call 0x7ffff7de46ae <_dl_rtld_di_serinfo>
+     t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7de46ae[0m)
+     t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de4b09 <_dl_rtld_di_serinfo>
+      t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dddad7 <.text>
+       t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dddb25 <.text>
+        t0: [33m0x7ffff7de5df0[0m: call 0x7ffff7dd8e12 <.text>
+        t0: 0x7ffff7de5df0: ret (to [32m0x7ffff7dd8e12[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7dee280[0m: call 0x7ffff7ded171 <_dl_exception_free>
+         t0: 0x7ffff7dee2d8: ret (to [32m0x7ffff7ded171[0m)
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7df235a <_dl_catch_error>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1151 <_dl_rtld_di_serinfo>
+           t0: 0x7ffff7df05a2: ret (to [32m0x7ffff7de1151[0m)
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de1438 <_dl_rtld_di_serinfo>
+           t0: [41mskipping a frame[0m
+          t0: [41mskipping a frame[0m
+         t0: [41mskipping a frame[0m
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df0c40[0m: call 0x7ffff7de3668 <_dl_rtld_di_serinfo>
+        t0: 0x7ffff7df0cc4: ret (to [32m0x7ffff7de3668[0m)
+        t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de385a <_dl_rtld_di_serinfo>
+         t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de395e <_dl_rtld_di_serinfo>
+          t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+           t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+            t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+             t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+              t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+               t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                 t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de6ed6 <_dl_debug_state>
+                  t0: [33m0x7ffff7dd5f10[0m: call 0x7ffff7dd901f <.text>
+                   t0: [33m0x7ffff7df0610[0m: call 0x7ffff7dd5f3f <.text>
+                    t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7dd5f3f <.text>
+                     t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de80fc <_dl_get_tls_static_info>
+                      t0: [33m0x7ffff7df0610[0m: call 0x7ffff7de816c <_dl_get_tls_static_info>
+                       t0: [33m0x7ffff7df04e0[0m: call 0x7ffff7de816c <_dl_get_tls_static_info>
+                       t0: [41mskipping a frame[0m
+                      t0: [41mskipping a frame[0m
+                     t0: [41mskipping a frame[0m
+                    t0: [41mskipping a frame[0m
+                   t0: [41mskipping a frame[0m
+                  t0: 0x7ffff7dd6060: ret (to [32m0x7ffff7dd901f[0m)
+                  t0: [33m0x7ffff7de81b0[0m: call 0x7ffff7dd93ea <.text>
+                  t0: 0x7ffff7de8396: ret (to [32m0x7ffff7dd93ea[0m)
+                  t0: [33m0x7ffff7de5df0[0m: call 0x7ffff7dd94f1 <.text>
+                  t0: 0x7ffff7de5df0: ret (to [32m0x7ffff7dd94f1[0m)
+                  t0: [33m0x7fffe4671920[0m: call 0x7ffff7de573c <_dl_rtld_di_serinfo>
+                   t0: [33m0x7fffe4680980[0m: call 0x7fffe4671a3d <_init>
+                   t0: 0x7fffe46809cf: ret (to [32m0x7fffe4671a3d[0m)
+                  t0: 0x7fffe4671a47: ret (to [32m0x7ffff7de573c[0m)
+                  t0: [33m0x555555554530[0m: call 0x1 <>
+                   t0: [33m0x7fffe4671ab0[0m: call 0x55555555455a <_start>
+                    t0: [33m0x7fffe46934e0[0m: call 0x7fffe4671afc <__libc_start_main>
+                    t0: 0x7fffe4693594: ret (to [32m0x7fffe4671afc[0m)
+                    t0: [33m0x555555554680[0m: call 0x7fffe4671b28 <__libc_start_main>
+                     t0: [33m0x5555555544e8[0m: call 0x5555555546b1 <__libc_csu_init>
+                     t0: 0x5555555544fe: ret (to [32m0x5555555546b1[0m)
+                     t0: [33m0x555555554630[0m: call 0x5555555546cd <__libc_csu_init>
+                      t0: [33m0x5555555545a0[0m: call 0x5555555546cd <__libc_csu_init>
+                      t0: 0x5555555545e1: ret (to [32m0x5555555546cd[0m)
+                     t0: [41mskipping a frame[0m
+                    t0: 0x5555555546e4: ret (to [32m0x7fffe4671b28[0m)
+                    t0: [33m0x7fffe468ecc0[0m: call 0x7fffe4671b4f <__libc_start_main>
+                     t0: [33m0x7fffe468ec20[0m: call 0x7fffe4671b4f <__libc_start_main>
+                     t0: 0x7fffe468eca3: ret (to [32m0x7fffe4671b4f[0m)
+                     t0: [33m0x555555554656[0m: call 0x7fffe4671b97 <__libc_start_main>
+                      t0: [33m0x55555555463a[0m: call 0x55555555466f <main>
+                       t0: [33m0x7fffe46d0120[0m: call 0x555555554653 <func>
+                        t0: [33m0x7fffe46de140[0m: call 0x7fffe46d026d <_IO_gets>
+                         t0: [33m0x7fffe46de430[0m: call 0x7fffe46d026d <_IO_gets>
+                          t0: [33m0x7fffe46dd090[0m: call 0x7fffe46de462 <_IO_default_uflow>
+                           t0: [33m0x7fffe46de370[0m: call 0x7fffe46dd2c4 <_IO_file_underflow>
+                            t0: [33m0x7fffe46ce170[0m: call 0x7fffe46de3e9 <_IO_doallocbuf>
+                             t0: [33m0x7fffe46db1f0[0m: call 0x7fffe46ce1cf <_IO_file_doallocate>
+                              t0: [33m0x7fffe475f8c0[0m: call 0x7fffe46ce1cf <_IO_file_doallocate>
+                              t0: 0x7fffe475f8db: ret (to [32m0x7fffe46ce1cf[0m)
+                              t0: [33m0x7fffe46712c0[0m: call 0x7fffe46ce1fc <_IO_file_doallocate>
+                               t0: [33m0x7fffe46e70e0[0m: call 0x7fffe46ce1fc <_IO_file_doallocate>
+                                t0: [33m0x7fffe47b61f0[0m: call 0x7fffe46e1701 <_IO_str_seekoff>
+                                 t0: [33m0x7fffe4670fd0[0m: call 0x5 <>
+                                  t0: [33m0x7ffff7de9690[0m: call 0x7fffe47b622c <_dl_addr>
+                                  t0: [41mskipping a frame[0m
+                                 t0: [41mskipping a frame[0m
+                                t0: 0x7fffe47b63cd: ret (to [32m0x7fffe46e1701[0m)
+                                t0: [33m0x7fffe4670fd0[0m: call 0x4 <>
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e15f0 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e15f0[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1604 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1604[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1618 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1618[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e162c <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e162c[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1640 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1640[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1654 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1654[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1668 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1668[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e167c <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e167c[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e1690 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e1690[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e16a4 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e16a4[0m)
+                                 t0: [33m0x7ffff7dee280[0m: call 0x7fffe46e16b8 <_IO_str_seekoff>
+                                 t0: 0x7ffff7dee2d8: ret (to [32m0x7fffe46e16b8[0m)
+                                 t0: [33m0x7fffe46eb200[0m: call 0x7fffe46e3e1c <_IO_str_seekoff>
+                                  t0: [33m0x7fffe4766620[0m: call 0x7fffe46eb209 <__default_morecore>
+                                   t0: [33m0x7fffe47665b0[0m: call 0x7fffe4766648 <sbrk>
+                                   t0: 0x7fffe47665d5: ret (to [32m0x7fffe4766648[0m)
+                                   t0: [33m0x7fffe47665b0[0m: call 0x7fffe4766691 <sbrk>
+                                   t0: 0x7fffe47665d5: ret (to [32m0x7fffe4766691[0m)
+                                  t0: [41mskipping a frame[0m
+                                 t0: 0x7fffe46eb21a: ret (to [32m0x7fffe46e3e1c[0m)
+                                 t0: [33m0x7fffe46eb200[0m: call 0x7fffe46e40a8 <_IO_str_seekoff>
+                                  t0: [33m0x7fffe4766620[0m: call 0x7fffe46eb209 <__default_morecore>
+                                  t0: 0x7fffe4766681: ret (to [32m0x7fffe46eb209[0m)
+                                 t0: 0x7fffe46eb21a: ret (to [32m0x7fffe46e40a8[0m)
+                                 t0: [33m0x7fffe46de310[0m: call 0x7fffe46ce21a <_IO_file_doallocate>
+                                 t0: 0x7fffe46de343: ret (to [32m0x7fffe46ce21a[0m)
+                                t0: [41mskipping a frame[0m
+                               t0: [41mskipping a frame[0m
+                              t0: [41mskipping a frame[0m
+                             t0: [41mskipping a frame[0m
+                            t0: 0x7fffe46ce241: ret (to [32m0x7fffe46de3e9[0m)
+                            t0: [33m0x7fffe46dde20[0m: call 0x7fffe46dd178 <_IO_file_underflow>
+                            t0: 0x7fffe46dde9c: ret (to [32m0x7fffe46dd178[0m)
+                            t0: [33m0x7fffe46db980[0m: call 0x7fffe46dd1b8 <_IO_file_underflow>
+                             t0: [33m0x7fffe4760180[0m: call 0x7fffe46dd1b8 <_IO_file_underflow>
+                             t0: 0x7fffe4760199: ret (to [32m0x7fffe46dd1b8[0m)
+                            t0: [41mskipping a frame[0m
+                           t0: [41mskipping a frame[0m
+                          t0: 0x7fffe46dd1e7: ret (to [32m0x7fffe46de462[0m)
+                         t0: 0x7fffe46de47c: ret (to [32m0x7fffe46d026d[0m)
+                         t0: [33m0x7fffe46cfe40[0m: call 0x7fffe46d0244 <_IO_gets>
+                         t0: [41mskipping a frame[0m
+                        t0: [41mskipping a frame[0m
+                       t0: 0x7fffe46d020b: ret (to [32m0x555555554653[0m)
+                      t0: 0x555555554655: ret (to [32m0x55555555466f[0m)
+                     t0: 0x555555554675: ret (to [32m0x7fffe4671b97[0m)
+                     t0: [33m0x7fffe46931d0[0m: call 0x7fffe4671b9e <__libc_start_main>
+                      t0: [33m0x7fffe4693920[0m: call 0x7fffe46931c7 <__libc_secure_getenv>
+                      t0: 0x7fffe4693984: ret (to [32m0x7fffe46931c7[0m)
+                      t0: [33m0x5555555545f0[0m: call 0x7ffff7de5bc3 <_dl_rtld_di_serinfo>
+                       t0: [33m0x555555554520[0m: call 0x555555554613 <__do_global_dtors_aux>
+                        t0: [33m0x7fffe46935d0[0m: call 0x555555554613 <__do_global_dtors_aux>
+                        t0: 0x7fffe46937d9: ret (to [32m0x555555554613[0m)
+                        t0: [33m0x555555554560[0m: call 0x555555554618 <__do_global_dtors_aux>
+                        t0: 0x555555554591: ret (to [32m0x555555554618[0m)
+                       t0: [41mskipping a frame[0m
+                      t0: 0x555555554620: ret (to [32m0x7ffff7de5bc3[0m)
+                      t0: [33m0x5555555546f4[0m: call 0x7ffff7de5be3 <_dl_rtld_di_serinfo>
+                      t0: 0x5555555546fc: ret (to [32m0x7ffff7de5be3[0m)
+                      t0: [33m0x7fffe46da8c0[0m: call 0x7fffe46df5e3 <_IO_adjust_column>
+                       t0: [33m0x7fffe46da740[0m: call 0x7fffe46de912 <_IO_default_xsgetn>
+                       t0: 0x7fffe46da7e8: ret (to [32m0x7fffe46de912[0m)
+                      t0: 0x7fffe46da8ee: ret (to [32m0x7fffe46df5e3[0m)
+                      t0: [33m0x7fffe4734e30[0m: call 0x7fffe46931c2 <__libc_secure_getenv>
